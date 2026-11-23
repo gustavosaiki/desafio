@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 A sample command-line application with an entrypoint in `bin/`, library code
 in `lib/`, and example unit test in `test/`.
 
@@ -70,3 +71,6 @@ CREATE TABLE IF NOT EXISTS public.veiculos (
     valor DECIMAL(12,2) NOT NULL,
     quilometragem INTEGER NOT NULL
 );
+=======
+# desafio
+>>>>>>> e37867bccd3e70e54b1b516b91b8aff53274a046
