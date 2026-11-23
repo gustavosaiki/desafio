@@ -73,4 +73,3 @@ CREATE TABLE IF NOT EXISTS public.veiculos (
 );
 =======
 # desafio
->>>>>>> e37867bccd3e70e54b1b516b91b8aff53274a046
